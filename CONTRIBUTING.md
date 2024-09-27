@@ -1,15 +1,15 @@
-# Contribuindo com Meu Primeiro Projeto
+# Contributing to My First Project
 
-Obrigado pelo seu interesse em contribuir!
+Thank you for your interest in contributing!
 
-## Como Contribuir
+## How to Contribute
 
-1. Faça um fork do projeto.
-2. Crie uma nova branch: `git checkout -b minha-melhoria`.
-3. Faça suas alterações e commit: `git commit -m 'Minha melhoria'`.
-4. Envie para o GitHub: `git push origin minha-melhoria`.
-5. Abra um Pull Request.
+1. Fork the project.
+2. Create a new branch: `git checkout -b my-improvement`.
+3. Make your changes and commit: `git commit -m 'My-improvement'`.
+4. Push to GitHub: `git push origin my-improvement`.
+5. Open a Pull Request.
 
-# Dicas
-Antes de enviar seu Pull Request, verifique se o código segue as diretrizes de estilo e se não há erros.
-É sempre bom adicionar testes para novas funcionalidades.
+# Tips
+Before submitting your Pull Request, check that the code follows the style guidelines and that there are no errors.
+It is always a good idea to add tests for new features.
