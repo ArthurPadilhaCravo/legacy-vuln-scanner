@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. VulnBanking.
-       AUTHOR. [Your Name].
+       AUTHOR. Arthur Padilha Cravo.
 
        DATA DIVISION.
        WORKING-STORAGE SECTION.
