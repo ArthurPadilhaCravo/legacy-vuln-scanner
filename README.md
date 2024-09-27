@@ -23,5 +23,5 @@ To run this project, you will need the following VSCode extensions:
 - Run the project:
    python app.py
 
-## Licença
-Este projeto está sob a licença MIT.
+## License
+   This project is licensed under the MIT license.
