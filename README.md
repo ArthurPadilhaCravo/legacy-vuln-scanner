@@ -15,7 +15,13 @@ To run this project, you will need the following VSCode extensions:
 - **Rocket MV BASIC** (for BASIC)
 
 ## Installation
-1. Clone the repository:
-   ```bash
+- Clone the repository:
    git clone https://github.com/arthurpadilhacravo/legacy-vuln-scanner.git
+   cd legacy-vuln-scanner
+- Install the dependencies:
+   pip install -r requirements.txt
+- Run the project:
+   python app.py
 
+## Licença
+Este projeto está sob a licença MIT.
