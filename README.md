@@ -23,5 +23,12 @@ To run this project, you will need the following VSCode extensions:
 - Run the project:
    python app.py
 
+## Next Steps
+   1. Define the main programming language for the project.
+   2. Implement the basic logic of the vulnerability scanner.
+   3. add support for different types of legacy systems.
+   4. Develop a user interface (CLI or GUI).
+   5. integrate with databases of known vulnerabilities.
+
 ## License
    This project is licensed under the MIT license.
